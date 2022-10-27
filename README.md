@@ -12,7 +12,6 @@ N/A
 
 For further inspection open DevTools to observe the code.
 
-
 ## Credits
 
 N/A
