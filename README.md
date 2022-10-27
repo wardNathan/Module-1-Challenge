@@ -11,6 +11,7 @@ N/A
 ## Usage
 
 For further inspection open DevTools to observe the code.
+![alt text](assets/images/module-1-challengescreenshot.jpg)
 
 
 ## Credits
